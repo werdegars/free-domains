@@ -1,5 +1,5 @@
 addSubDomain({
-  description: 'Home IOT projects',
+  description: 'Home IOT personal projects',
   domain: 'is-an.app',
   subdomain: 'by708',
   owner: {
